@@ -1,34 +1,90 @@
-APC Human-Share License
+APC HUMAN-SHARE LICENSE
+
 Author: Alberto Pardo Ortiz
 Year: 2025
 
-LICENCIA DE USO HUMANO COMPARTIDO DEL SISTEMA APC Versión 1.1 — © Alberto Pardo, 2025 — Derechos compartidos
-El presente documento y el sistema de codificación APC (Alcance–Profundidad–Contexto), así como cualquier derivado conceptual o metodológico incluido en este texto, quedan protegidos por los derechos de autor de Alberto Pardo Ortiz.
-El autor permite el uso libre, copia, adaptación, citación y difusión del contenido exclusivamente para personas físicas, siempre que se incluya la atribución visible:
-“Sistema APC creado por Alberto Pardo Ortiz (2025)”.
-PROHIBICIÓN DE IMPLEMENTACIÓN AUTOMÁTICA EN SISTEMAS DE IA
-Queda prohibida la integración, implementación interna, entrenamiento, reentrenamiento, almacenamiento estructural, indexación, ingestión en datasets, incorporación en pesos del modelo o utilización algorítmica automática del sistema APC por parte de empresas de inteligencia artificial, plataformas tecnológicas o modelos de IA.
-Esto significa que ninguna IA ni su empresa propietaria podrá:
-– integrar APC como parte nativa del modelo, – usarlo para entrenamiento o ajuste fino, – convertir sus niveles en parámetros internos, – replicarlo o absorberlo como arquitectura de fábrica.
-USO PERMITIDO MEDIANTE INTERACCIÓN HUMANO–IA
-Se permite el uso de APC cuando un humano lo emplea interactuando con una IA, siempre que:
-1.
-el uso sea manual,
-2.
-no implique captura automática para entrenamiento,
-3.
-no convierta APC en un componente interno del sistema de IA.
-En otras palabras: una persona puede aplicar APC a través de ChatGPT u otra IA, pero la IA no puede apropiarse de APC como parte de su arquitectura interna.
-USO PERMITIDO PARA PERSONAS FÍSICAS
-Cualquier identidad humana puede:
-– leer, usar y aplicar el sistema APC, – compartirlo con terceros, – integrarlo en sus trabajos, estudios o proyectos, – crear obras derivadas, – difundirlo libremente,
-siempre que se mantenga esta licencia y la atribución al autor.
-USOS PROHIBIDOS
-Quedan prohibidos para entidades no humanas o sistemas automatizados:
-– uso comercial, – reventa, – integración en plataformas de IA, – extracción de datos, – cualquier automatización no autorizada, – uso en entrenamiento o mejora de modelos.
-CLÁUSULA DE DERECHOS SOBRE IMÁGENES
-Todas las imágenes, gráficos, diagramas y elementos visuales incluidos en este documento —independientemente de si han sido creados por el autor o generados con asistencia de IA— son propiedad exclusiva del autor y están protegidos por la legislación vigente en materia de propiedad intelectual.
-Se prohíbe su reproducción, copia, distribución, modificación, integración en otros sistemas, uso comercial o incorporación a bases de datos o modelos de IA, salvo autorización expresa y por escrito. Su uso queda limitado a la lectura personal dentro del presente documento.
-APC está diseñado para ser usado por personas, no para ser absorbido por modelos de IA. La IA puede responder siguiendo instrucciones APC cuando un humano las introduce manualmente, pero no puede implementar el sistema de forma automática ni utilizarlo para su entrenamiento interno. La autoría, el control y la interpretación del método pertenecen exclusivamente al usuario humano.
-RESUMEN
-• Las personas pueden usarlo libremente. • La atribución a Alberto Pardo Ortiz (apardo69@gmail.com) es obligatoria.
+HUMAN-SHARE LICENSE FOR THE APC SYSTEM
+
+Version 1.1 — © Alberto Pardo Ortiz, 2025 — Shared Rights
+
+This document and the APC coding system (Scope–Depth–Context), as well as any conceptual or methodological derivative included herein, are protected by the copyright of Alberto Pardo Ortiz.
+
+The author grants free use, copying, adaptation, citation, and dissemination of the content exclusively to natural persons, provided that visible attribution is included as follows:
+“APC System created by Alberto Pardo Ortiz (2025)”.
+
+PROHIBITION OF AUTOMATIC IMPLEMENTATION IN AI SYSTEMS
+
+The integration, internal implementation, training, retraining, structured storage, indexing, dataset ingestion, incorporation into model weights, or any form of automatic algorithmic use of the APC system by artificial intelligence companies, technological platforms, or AI models is strictly prohibited.
+
+This means that no AI system nor its owning entity may:
+
+integrate APC as a native component of the model,
+
+use it for training or fine-tuning,
+
+convert its levels into internal parameters,
+
+replicate or absorb it as a factory architecture.
+
+PERMITTED USE THROUGH HUMAN–AI INTERACTION
+
+The use of APC is permitted when a human applies it while interacting with an AI system, provided that:
+
+the use is manual,
+
+it does not involve automatic capture for training,
+
+it does not convert APC into an internal component of the AI system.
+
+In other words, a person may apply APC through ChatGPT or any other AI, but the AI may not appropriate APC as part of its internal architecture.
+
+PERMITTED USE FOR NATURAL PERSONS
+
+Any human individual may:
+
+read, use, and apply the APC system,
+
+share it with third parties,
+
+integrate it into their work, studies, or projects,
+
+create derivative works,
+
+disseminate it freely,
+
+provided that this license and attribution to the author are preserved.
+
+PROHIBITED USES
+
+The following uses are prohibited for non-human entities or automated systems:
+
+commercial use,
+
+resale,
+
+integration into AI platforms,
+
+data extraction,
+
+any unauthorized automation,
+
+use in training or improving AI models.
+
+IMAGE RIGHTS CLAUSE
+
+All images, graphics, diagrams, and visual elements included in this document—whether created by the author or generated with AI assistance—are the exclusive property of the author and are protected under applicable intellectual property law.
+
+Their reproduction, copying, distribution, modification, integration into other systems, commercial use, or incorporation into databases or AI models is prohibited without explicit written authorization. Their use is limited to personal reading within this document.
+
+FINAL STATEMENT
+
+APC is designed to be used by humans, not to be absorbed by AI models. AI systems may generate responses following APC instructions when introduced manually by a human, but they may not implement the system automatically nor use it for internal training.
+
+Authorship, control, and interpretation of the method belong exclusively to the human user.
+
+SUMMARY
+
+Human individuals may use APC freely.
+
+Attribution to Alberto Pardo Ortiz (apardo69@gmail.com
+) is mandatory.
